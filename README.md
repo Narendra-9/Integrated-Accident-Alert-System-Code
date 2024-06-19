@@ -1,5 +1,16 @@
 # Integrated Accident Prevention System (IAPS)
-
+## Abstract
+In today's fast-paced world, road safety remains a critical concern, our project "Integrated Accident Prevention System" aims to 
+enhance driver safety by employing advanced technologies to detect and mitigate potential risks on the road. This comprehensive 
+system incorporates four key components: sleep detection, alcohol detection, automatic dipping of headlights. All these are 
+integrated on Arduino UNO. The sleep detection feature utilizes sensors to monitor driver fatigue levels, issuing alerts when signs 
+of drowsiness are detected, thereby prompting the driver to take necessary breaks or corrective actions. The alcohol detection 
+mechanism employs sensors to analyse the driver's breath or touch, preventing the vehicle from starting if alcohol levels exceed 
+safety thresholds, thus reducing the risk of impaired driving. Automatic dipping of headlights ensures optimal visibility for both the 
+driver and oncoming vehicles by adjusting the intensity and direction of the headlights based on surrounding conditions, thereby 
+minimizing glare and improving overall safety. By integrating these features into a cohesive system, our project endeavours to 
+proactively mitigate the potential for accidents, thereby safeguarding the lives of drivers, passengers, and pedestrians alike, while 
+promoting safer roadways for all.
 ## Description
 The Integrated Accident Prevention System (IAPS) is an Arduino-based project designed to enhance road safety by monitoring driver fatigue, alcohol impairment, and headlight intensity.
 
