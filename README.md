@@ -11,8 +11,6 @@ driver and oncoming vehicles by adjusting the intensity and direction of the hea
 minimizing glare and improving overall safety. By integrating these features into a cohesive system, our project endeavours to 
 proactively mitigate the potential for accidents, thereby safeguarding the lives of drivers, passengers, and pedestrians alike, while 
 promoting safer roadways for all.
-## Description
-The Integrated Accident Prevention System (IAPS) is an Arduino-based project designed to enhance road safety by monitoring driver fatigue, alcohol impairment, and headlight intensity.
 
 ## Table of Contents
 - [Installation](#installation)
